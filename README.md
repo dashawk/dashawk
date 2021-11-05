@@ -1,5 +1,13 @@
-### Hi there 👋
+### Welcome to my World of Codes. 👋
 
+Feel free to take a peek of my world.
+
+- 💻 Tech Stack: ReactJS, NodeJS, PHP, Javascript, CSS, HTML. :ph:
+- 📧 Email: jmpanugaling@gmail.com
+- 🌩️ Website: https://www.notyetexisting.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jasonpanugaling/
+
+### 🔍Always looking for improvements
 <!--
 **dashawk/dashawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
