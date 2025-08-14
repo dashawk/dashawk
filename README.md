@@ -2,7 +2,7 @@
 
 Feel free to take a peek of my world.
 
-- 💻 Tech Stack: ReactJS, NodeJS, PHP, Javascript, CSS, HTML. :ph:
+- 💻 Tech Stack: NextJS/ReactJS, NodeJS, PHP, Javascript, CSS, HTML. :philippines:
 - 📧 Email: jmpanugaling@gmail.com
 - 🌩️ Website: https://www.notyetexisting.com
 - 💼 LinkedIn: https://www.linkedin.com/in/jasonpanugaling/
